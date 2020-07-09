@@ -1,0 +1,11 @@
+Topic: Strings
+1. Calculate the length of a string without using the len() method. 
+2. Write a Pytjon program to replace each occurrence of letter 'a'with '@'. 
+Sample input : Sharan 
+Sample output : Sh@r@n
+3. Write a Python program to remove the nth index character from a nonempty string. 
+Sample input:
+ Hello world
+ 4
+Sample output:
+Helo world
